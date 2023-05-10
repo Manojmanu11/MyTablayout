@@ -9,10 +9,11 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:text="Tab1"
         android:gravity="center"
-        android:textStyle="bold"
+        android:text="Tab1"
+        android:textColor="@color/black"
         android:textSize="40dp"
-        android:textColor="@color/black"/>
+        android:textStyle="bold" />
+
 
 </FrameLayout>
