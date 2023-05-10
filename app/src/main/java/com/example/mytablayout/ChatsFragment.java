@@ -17,6 +17,6 @@ public class ChatsFragment extends Fragment {
                              Bundle savedInstanceState) {
         // Inflate the layout for this fragment
         //
-        return inflater.inflate(R.layout.fragment_chat, container, false);
+        return inflater.inflate(R.layout.fragment_chats, container, false);
     }
 }
